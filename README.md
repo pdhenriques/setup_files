@@ -1,1 +1,1 @@
-# linux_setup
+# My personal setup files repo
